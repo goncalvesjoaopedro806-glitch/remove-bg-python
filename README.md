@@ -1,17 +1,19 @@
 # 🚀 RemoveBG Tunado - AI Background Remover
 
-Software desktop desenvolvido em Python para remoção automática de fundos de imagem em lote, focado em manter a qualidade original (HD) para fluxos de trabalho profissionais.
+Desktop software developed in Python for automatic batch removal of image backgrounds, focused on maintaining original quality (HD) for professional workflows.
 
-## 🛠️ Tecnologias Utilizadas
-* **Python**: Linguagem principal.
-* **CustomTkinter**: Interface gráfica moderna.
-* **Rembg**: Motor de IA para segmentação de imagens.
-* **PyInstaller**: Empacotamento para executável (.exe).
+## 🛠️ Technologies Used
+* **Python**: Main language.
+* **CustomTkinter**: Modern graphical interface.
+* **Rembg**: AI engine for image segmentation.
+* **PyInstaller**: Executable (.exe) packaging.
 
-## 🌟 Diferenciais
-* **Processamento Local**: Mais rápido e privado que ferramentas online.
-* **Qualidade HD**: Sem compressão agressiva nos arquivos finais.
-* **Produtividade**: Processa pastas inteiras com um único clique.
+## 🌟 Key Features
+* **Local Processing**: Faster and more private than online tools.
 
-## 📈 Status do Projeto
-Este projeto faz parte da minha jornada rumo à **Engenharia de Software**. O objetivo foi automatizar tarefas repetitivas no meu trabalho freelancer.
+* **HD Quality**: No aggressive compression on final files.
+
+* **Productivity**: Processes entire folders with a single click.
+
+## 📈 Project Status
+This project is part of my journey towards **Software Engineering**. The goal was to automate repetitive tasks in my freelance work.
